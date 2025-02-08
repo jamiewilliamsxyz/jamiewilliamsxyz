@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamie Williams</h1>
-<h3 align="center">A student studying computing, working towards becoming a front-end website developer</h3>
+<h3 align="center">I am a uni student studying web dev while learning web design. I'm working towards becoming a front-end website developer.</h3>
 <br>
 
 - 🔭 I’m currently working on **my portfolio**

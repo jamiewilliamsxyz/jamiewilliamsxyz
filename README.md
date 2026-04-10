@@ -3,7 +3,7 @@
 I'm a **WordPress Developer & Front-End Engineer** who enjoys building scalable, high-performance, visually polished websites and web applications
 
 ### 📌 Portfolio
-🚧 *Under construction* 🚧
+[jamiewilliams.me ↗](https://jamiewilliams.me)
 
 ### 🛠️ Skills
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)

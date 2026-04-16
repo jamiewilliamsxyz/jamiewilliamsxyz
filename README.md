@@ -1,6 +1,6 @@
 ## Hi, I'm Jamie 👋
 
-I'm a **WordPress Developer** specialising in building custom themes and plugins.
+I'm a **WordPress Developer** specialising in building custom themes and plugins from scratch.
 
 ### 📌 Portfolio
 [jamiewilliams.me ↗](https://jamiewilliams.me)

@@ -2,8 +2,10 @@
 
 I'm a **WordPress Developer** specialising in building custom themes and plugins from scratch.
 
-### 📌 Portfolio
-[jamiewilliams.me ↗](https://jamiewilliams.me)
+### 📌 Links
+[Portfolio ↗](https://jamiewilliams.me)<br />
+[LinkedIn ↗](https://www.linkedin.com/in/jamiewilliamsxyz)<br />
+[Email ↗](mailto:jamie7williams@gmail.com)
 
 ### 🛠️ Skills
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
